@@ -1,0 +1,9 @@
+1. REST adalah singkatan dari REpresentational State Transfer. REST merupakan gaya arsitektur untuk menyediakan standar antara sistem komputer di web, 
+sehingga memudahkan sistem untuk berkomunikasi satu sama lain. Menurut Code Academy, sistem yang sesuai dengan REST, sering disebut sistem RESTful, 
+dicirikan oleh sifatnya yang stateless dan dapat memisahkan masalah klien dan server. Stateless artinya server tidak perlu mengetahui apa pun tentang status klien 
+dan sebaliknya. Sehingga, baik server maupun klien dapat memahami pesan apa pun yang diterima, bahkan tanpa melihat pesan sebelumnya.
+
+3. Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web. 
+Dengan cara ini, bahkan sebagian besar bisnis dewasa mendapatkan kemampuan manuver dan fleksibilitas dari sebuah startup.
+Pada prinsipnya, sistem headless mencakup serangkaian solusi: frontend headless, platform headless commerce, CMS headless, pencarian atau pembayaran.
+Industri eCommerce sebagian besar menganut konsep headless architecture, oleh karena itu muncullah istilah headless commerce.
